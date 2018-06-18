@@ -1,4 +1,4 @@
-import LyqButton from './components/Button/index.js';
+import SmallButton from './components/SmallButton.js';
 module.exports = {
-    LyqButton
+    SmallButton
 }
